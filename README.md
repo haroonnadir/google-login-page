@@ -1,7 +1,2 @@
 .sir 
 .haroon nadir
-.
-.
-
-
-.
