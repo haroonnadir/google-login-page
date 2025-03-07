@@ -1,4 +1,3 @@
 sir 
 haroon nadir
 .
-.
