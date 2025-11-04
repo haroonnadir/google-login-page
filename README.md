@@ -1,9 +1,1 @@
 google-login-page
-.
-rg
-.
-.
-.
-.
-.
-.
