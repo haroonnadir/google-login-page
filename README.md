@@ -1,13 +1,4 @@
 google-login-page
-.
-
-.
-
-.
-.
-.
-.
-
 
 
 
